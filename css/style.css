@@ -1,0 +1,132 @@
+
+main {
+    padding: 32px;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+<<<<<<< HEAD
+
+=======
+>>>>>>> fe343139e2ef3941dcd2b446d74a8c6eb793986b
+.logo-icon {
+    height: 50px;
+    width: 50px;
+    
+
+    background-image: url(https://picsum.photos/200/300);
+    background-size: cover;
+    border-radius: 50%;
+}
+
+nav>a{
+    padding-left: 32px;
+    padding-right: 32px;
+    border: 1px solid;
+
+
+}
+
+.banner-container {
+<<<<<<< HEAD
+
+    background-image: url(../assets/508133488.jpg);
+=======
+>>>>>>> fe343139e2ef3941dcd2b446d74a8c6eb793986b
+    height: 350px;
+    width: 100%;
+    border: 1px solid;
+}
+
+<<<<<<< HEAD
+
+=======
+>>>>>>> fe343139e2ef3941dcd2b446d74a8c6eb793986b
+.headquarter-content{
+    display:flex;
+    justify-content: space-evenly;
+
+}
+
+.headquarter-item {
+
+    text-align: center;
+    flex: 1;
+    text-align: -webkit-center;
+
+}
+
+.headquarter-icon{
+
+<<<<<<< HEAD
+    height: 150px;
+    width: 150px;
+=======
+    height: 50px;
+    width: 50px;
+>>>>>>> fe343139e2ef3941dcd2b446d74a8c6eb793986b
+
+
+    background-size: cover;
+    border-radius: 50%;
+
+}
+
+.headquarter-1 {
+
+    background-image: url(../assets/Alex-Grey-2-Hads-Trippy-Image-via-Thingstolookathigh-com.jpg);
+   
+}
+
+.headquarter-2{
+
+    background-image: url(../assets/download.jpg);
+
+
+}
+
+.headquarter-3{
+
+    background-image: url(../assets/images.jpg);
+   
+}
+
+.divider{
+
+    flex: 2;
+<<<<<<< HEAD
+}
+
+.form-group {  
+    margin-bottom: 20px;  
+  }  
+ .form-group label {  
+    display: inline-block;  
+    width: 100px;  
+    text-align: left;  
+    margin-right: 10px;  
+  }  
+ .form-group input[type="text"],.form-group input[type="date"],.form-group textarea {  
+    width: 200px;  
+    padding: 10px;  
+    margin-bottom: 20px;  
+    border: 1px solid #ccc;  
+
+  }  
+ .form-group input[type="radio"] {  
+    margin: 10px;  
+
+  }  
+
+.footer{
+
+text-align: right;
+
+=======
+>>>>>>> fe343139e2ef3941dcd2b446d74a8c6eb793986b
+}
